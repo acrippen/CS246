@@ -1,5 +1,5 @@
 Design todo list:
 
 a. add items to list
-b.
+b. add more items to list
 c.
